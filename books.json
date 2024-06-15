@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "id": 101,
+      "title": "Psychology",
+      "price": 40,
+      "photo": "https://res.cloudinary.com/dk-hub/image/upload/c_limit,f_auto,w_580,h_650/dk-core-nonprod/9780744098556/9780744098556_cover.jpg"
+    },
+    {
+      "id": 102,
+      "title": "The Economics Book",
+      "price": 50,
+      "photo": "https://res.cloudinary.com/dk-hub/image/upload/c_limit,f_auto,w_580,h_650/dk-core-nonprod/9780756698270/9780756698270_cover.jpg"
+    },
+    {
+      "id": 103,
+      "title": "The Politics Book",
+      "price": 60,
+      "photo": "https://res.cloudinary.com/dk-hub/image/upload/c_limit,f_auto,w_580,h_650/dk-core-nonprod/9780593844120/9780593844120_cover.jpg"
+    },
+    {
+      "id": 104,
+      "title": "The Religions Book",
+      "price": 70,
+      "photo": "https://res.cloudinary.com/dk-hub/image/upload/c_limit,f_auto,w_580,h_650/dk-core-nonprod/9781465408433/9781465408433_cover.jpg"
+    },
+    {
+      "id": 105,
+      "title": "The Business Book",
+      "price": 80,
+      "photo": "https://res.cloudinary.com/dk-hub/image/upload/c_limit,f_auto,w_580,h_650/dk-core-nonprod/9781465415851/9781465415851_cover.jpg"
+    },
+    {
+      "id": 106,
+      "title": "The Science Book",
+      "price": 90,
+      "photo": "https://res.cloudinary.com/dk-hub/image/upload/c_limit,f_auto,w_580,h_650/dk-core-nonprod/9781465419651/9781465419651_cover.jpg"
+    }
+  ]
+}
